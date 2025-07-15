@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ritik639471/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ritik639471/leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/Ritik639471/leetcode/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
 <!---LeetCode Topics End-->
