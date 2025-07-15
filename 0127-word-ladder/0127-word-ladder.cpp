@@ -1,7 +1,9 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        map<string,bool>mp;
+        ios_base::sync_with_stdio(false);
+        cin.tie(0);
+        unordered_map<string,bool>mp;
         for(auto c: wordList){
             mp[c]=true;
         }
