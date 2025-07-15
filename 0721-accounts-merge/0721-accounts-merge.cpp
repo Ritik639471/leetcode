@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& a) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(0);
         vector<vector<string>> ans;
         unordered_map<string, set<int>> mp;
         for (int j = 0; j < a.size(); j++) {
@@ -35,9 +37,8 @@ public:
                     }
                 }
             }
+            sort(ans[j].begin()+1, ans[j].end());
         }
-        for (int i = 0; i < ans.size(); i++)
-            sort(ans[i].begin()+1, ans[i].end());
         return ans;
     }
 };
