@@ -2,6 +2,7 @@ class Solution {
 public:
     bool canPartition(vector<int>& nums) {
         int sum=0,n=nums.size();
+        sort(nums.begin(),nums.end());
         vector<unordered_set<int>>s(n);
         for(int i=0;i<nums.size();i++){
             sum+=nums[i];
