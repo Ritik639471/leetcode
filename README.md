@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/Ritik639471/leetcode/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 ## String
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ritik639471/leetcode/tree/master/0051-n-queens) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritik639471/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
@@ -64,10 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ritik639471/leetcode/tree/master/0051-n-queens) |
 ## Graph
 |  |
