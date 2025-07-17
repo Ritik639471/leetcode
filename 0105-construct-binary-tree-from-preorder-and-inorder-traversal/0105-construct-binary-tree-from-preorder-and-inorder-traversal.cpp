@@ -23,9 +23,7 @@ public:
             if(in[l]==pre[i]) break;
         }
         t->left=help(pre,in,i+1,j,l-1);
-        int a;
-        for(a=i;a<n;a++) if(!mp[pre[a]]) break;
-        if(a<n) t->right=help(pre,in,a,l+1,k);
+        t->right=help(pre,in,i+l-j+1,l+1,k);
         return t;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
