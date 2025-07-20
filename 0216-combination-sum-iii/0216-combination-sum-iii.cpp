@@ -1,6 +1,6 @@
 class Solution {
 public:
-    void help(vector<vector<int>>&ans,int k,int n,vector<int>a,int i){
+    void help(vector<vector<int>>&ans,int k,int n,vector<int>&a,int i){
         if(k<0||n<0) return;
         if(k==0&&n==0) {
             ans.push_back(a);
@@ -15,7 +15,8 @@ public:
     }
     vector<vector<int>> combinationSum3(int k, int n) {
         vector<vector<int>>ans;
-        help(ans,k,n,{},1);
+        vector<int>a;
+        help(ans,k,n,a,1);
         return ans;
     }
 };
