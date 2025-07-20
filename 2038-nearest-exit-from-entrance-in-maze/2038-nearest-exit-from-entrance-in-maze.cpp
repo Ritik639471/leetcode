@@ -7,11 +7,13 @@ public:
         maze[e[0]][e[1]]='+';
         pair<pair<int,int>,int> c;
         int dir[4][2]={{1,0},{0,1},{-1,0},{0,-1}};
+        int x,y;
         while(!q.empty()){
             c=q.front();
             q.pop();
             for(int i=0;i<4;i++){
-                int x=c.first.first+dir[i][0],y=c.first.second+dir[i][1];
+                x=c.first.first+dir[i][0];
+                y=c.first.second+dir[i][1];
                 if(x>=0&&x<m&&y>=0&&y<n&&maze[x][y]=='.'){
                     if(x==0||y==0||x==m-1||y==n-1){
                         return c.second;
