@@ -7,7 +7,7 @@ public:
             s[edges[i][0]].insert(edges[i][1]);
             s[edges[i][1]].insert(edges[i][0]);
         }
-        unordered_map<int,bool>m;
+        vector<bool>m(n,false);
         queue<int>q;
         for(int i=0;i<n;i++){
             long long j=0;
@@ -19,7 +19,6 @@ public:
                 int a=q.front();
                 q.pop();
                 for(int c:s[a]){
-                    s[c].erase(a);
                     if(!m[c]){
                         q.push(c);
                         m[c]=true;
