@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findOrder(int n, vector<vector<int>>& pq) {
-        unordered_map<int,set<int>>s,s1;
+        unordered_map<int,unordered_set<int>>s,s1;
         for(int i=0;i<pq.size();i++){
             s[pq[i][0]].insert(pq[i][1]);
             s1[pq[i][1]].insert(pq[i][0]);
