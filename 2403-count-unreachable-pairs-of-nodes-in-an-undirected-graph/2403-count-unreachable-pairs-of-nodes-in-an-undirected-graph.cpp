@@ -19,6 +19,7 @@ public:
                 int a=q.front();
                 q.pop();
                 for(int c:s[a]){
+                    s[c].erase(a);
                     if(!m[c]){
                         q.push(c);
                         m[c]=true;
