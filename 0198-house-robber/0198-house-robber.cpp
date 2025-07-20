@@ -3,6 +3,7 @@ public:
     vector<int> dp;
     int help(vector<int>& nums,int i,int n){
         if(i>=n) return dp[n]=0;
+        if(dp[i]!=-1) return dp[i];
         if(i==n-1) return dp[n-1]=nums[n-1];
         if(dp[i+1]==-1) dp[i+1]=help(nums,i+1,n);
         if(dp[i+2]==-1) dp[i+2]=help(nums,i+2,n);
