@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Ritik639471/leetcode/tree/master/0216-combination-sum-iii) |
 | [0416-partition-equal-subset-sum](https://github.com/Ritik639471/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
+| [0739-daily-temperatures](https://github.com/Ritik639471/leetcode/tree/master/0739-daily-temperatures) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritik639471/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Ritik639471/leetcode/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritik639471/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ritik639471/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Ritik639471/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
