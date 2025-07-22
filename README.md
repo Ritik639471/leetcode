@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritik639471/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ritik639471/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -179,8 +181,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
+## Binary Search
+|  |
+| ------- |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
