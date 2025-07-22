@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ritik639471/leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Ritik639471/leetcode/tree/master/0052-n-queens-ii) |
 | [0216-combination-sum-iii](https://github.com/Ritik639471/leetcode/tree/master/0216-combination-sum-iii) |
 ## Graph
 |  |
