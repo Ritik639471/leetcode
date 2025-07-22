@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritik639471/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ritik639471/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Prefix Sum
 |  |
 | ------- |
