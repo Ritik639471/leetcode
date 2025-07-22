@@ -16,11 +16,9 @@ public:
             hi--;
             lo++;
         }
-        int a,b;
+        int a=p1.size(),b=p2.size();
         long long ans=0;
         for(int i=1;i<=k;i++){
-            a=p1.size();
-            b=p2.size();
             if(a==0){
                 ans+=p2.top().first;
                 p2.pop();
