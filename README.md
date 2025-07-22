@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ritik639471/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ritik639471/leetcode/tree/master/0043-multiply-strings) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ritik639471/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Ordered Set
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Merge Sort
 |  |
 | ------- |
