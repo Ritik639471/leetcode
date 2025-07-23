@@ -208,12 +208,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ritik639471/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ritik639471/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0908-middle-of-the-linked-list) |
