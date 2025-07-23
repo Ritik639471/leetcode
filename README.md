@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Ritik639471/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Ritik639471/leetcode/tree/master/0127-word-ladder) |
 | [0496-next-greater-element-i](https://github.com/Ritik639471/leetcode/tree/master/0496-next-greater-element-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ritik639471/leetcode/tree/master/0051-n-queens) |
+| [0073-set-matrix-zeroes](https://github.com/Ritik639471/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritik639471/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ritik639471/leetcode/tree/master/0198-house-robber) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Ritik639471/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ritik639471/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
