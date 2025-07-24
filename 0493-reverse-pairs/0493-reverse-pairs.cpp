@@ -8,7 +8,7 @@ public:
         vector<int>b(j-i+1);
         int k=i,l=d+1;
         while(k<=d&&l<=j){
-            if(2*(long long)nums[l]<(long long)nums[k]){
+            if(2*1LL*nums[l]<nums[k]){
                 a+=d-k+1;
                 l++;
             }else k++;
@@ -37,7 +37,6 @@ public:
         int a=0;
         int n=nums.size();
         help(nums,0,n-1,a);
-        for(int i=0;i<n;i++) cout<<nums[i]<<endl;
         return a;
     }
 };
