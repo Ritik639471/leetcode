@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Ritik639471/leetcode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Ritik639471/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Ritik639471/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritik639471/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Ritik639471/leetcode/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Ritik639471/leetcode/tree/master/0146-lru-cache) |
 | [0937-online-stock-span](https://github.com/Ritik639471/leetcode/tree/master/0937-online-stock-span) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ritik639471/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## Heap (Priority Queue)
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ritik639471/leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Ritik639471/leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Ritik639471/leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritik639471/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -270,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0234-palindrome-linked-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Ritik639471/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
