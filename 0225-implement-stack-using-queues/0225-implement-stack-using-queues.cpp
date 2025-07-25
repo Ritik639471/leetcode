@@ -1,6 +1,7 @@
 class MyStack {
-public:
+private:
     queue<int>stack;
+public:
     MyStack() {
         
     }
