@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Ritik639471/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ritik639471/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritik639471/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0234-palindrome-linked-list) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Ritik639471/leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Ritik639471/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Ritik639471/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Ritik639471/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Ritik639471/leetcode/tree/master/0937-online-stock-span) |
