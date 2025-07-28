@@ -1,31 +1,37 @@
 class Solution {
 private:
-    bool f=false;
+    vector<vector<int>>dp;
 public:
-    void help(string s, string p,int i,int j){
+    int help(string s, string p,int i,int j){
         if(i<0&&j<0){
-            f=true;
-            return;
+            return 1;
         }
-        if(i>=0&&j<0) return;
+        if(i>=0&&j<0) return 0;
         if(i<0&&j>=0){
-            if(p[j]=='.'||p[j]!='*') return;
-            help(s,p,i,j-2);
-            return;
+            if(p[j]=='.'||p[j]!='*') return 0;
+            while(j>0&&p[j]=='*'){
+                j-=2;
+            }
+            if(j<0) return 1;
+            return 0;
         }
-        if(s[i]==p[j]) help(s,p,i-1,j-1);
-        else if(p[j]=='.') help(s,p,i-1,j-1);
+        if(dp[i][j]!=-1) return dp[i][j];
+        if(s[i]==p[j]) dp[i][j]=max(dp[i][j],help(s,p,i-1,j-1));
+        else if(p[j]=='.') dp[i][j]=max(dp[i][j],help(s,p,i-1,j-1));
         else if(p[j]=='*'){
-            help(s,p,i,j-2);
-            while(i>=0&&(s[i]==p[j-1]||p[j-1]=='.')){
-                help(s,p,i-1,j-2);
-                i--;
+            dp[i][j]=max(dp[i][j],help(s,p,i,j-2));
+            int k=i;
+            while(k>=0&&(s[k]==p[j-1]||p[j-1]=='.')){
+                dp[i][j]=max(dp[i][j],help(s,p,k-1,j-2));
+                k--;
             }
         }
+        return dp[i][j];
     }
     bool isMatch(string s, string p) {
         int n1=s.length(),n2=p.length();
-        help(s,p,n1-1,n2-1);
-        return f;
+        dp=vector<vector<int>>(n1,vector<int>(n2,-1));
+        dp[n1-1][n2-1]=help(s,p,n1-1,n2-1);
+        return dp[n1-1][n2-1]==1;
     }
 };
