@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Ritik639471/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ritik639471/leetcode/tree/master/0043-multiply-strings) |
 | [0065-valid-number](https://github.com/Ritik639471/leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/Ritik639471/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Ritik639471/leetcode/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Ritik639471/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Ritik639471/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Ritik639471/leetcode/tree/master/0051-n-queens) |
 | [0057-insert-interval](https://github.com/Ritik639471/leetcode/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/Ritik639471/leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/Ritik639471/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Ritik639471/leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ritik639471/leetcode/tree/master/0043-multiply-strings) |
+| [0068-text-justification](https://github.com/Ritik639471/leetcode/tree/master/0068-text-justification) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Bit Manipulation
 |  |
