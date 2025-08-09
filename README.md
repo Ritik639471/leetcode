@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Ritik639471/leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Ritik639471/leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/Ritik639471/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Ritik639471/leetcode/tree/master/0089-gray-code) |
 | [0131-palindrome-partitioning](https://github.com/Ritik639471/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Ritik639471/leetcode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ritik639471/leetcode/tree/master/0813-all-paths-from-source-to-target) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Ritik639471/leetcode/tree/master/0043-multiply-strings) |
+| [0089-gray-code](https://github.com/Ritik639471/leetcode/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Ritik639471/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Ritik639471/leetcode/tree/master/0089-gray-code) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritik639471/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Ritik639471/leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Prefix Sum
