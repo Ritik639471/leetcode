@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ritik639471/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritik639471/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Ritik639471/leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/Ritik639471/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ritik639471/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Ritik639471/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Ritik639471/leetcode/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Ritik639471/leetcode/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/Ritik639471/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
+| [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritik639471/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ritik639471/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ritik639471/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ritik639471/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -349,4 +354,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Ritik639471/leetcode/tree/master/0139-word-break) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
