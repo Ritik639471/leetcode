@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ritik639471/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
+| [1300-critical-connections-in-a-network](https://github.com/Ritik639471/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ritik639471/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ritik639471/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ritik639471/leetcode/tree/master/0547-number-of-provinces) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ritik639471/leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1300-critical-connections-in-a-network](https://github.com/Ritik639471/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ritik639471/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/Ritik639471/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/Ritik639471/leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
