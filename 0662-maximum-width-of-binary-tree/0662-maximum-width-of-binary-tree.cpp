@@ -12,7 +12,6 @@
 class Solution {
 private:
     void help(map<long,long>&mp,map<long,long>&mp1,TreeNode* root,long j,int i,int& ans){
-        cout<<j<<" "<<i<<endl;
         if(root==NULL) return;
         if(mp[i]==0) mp[i]=j+1;
         if(mp1[i]==0) mp1[i]=j+1;
