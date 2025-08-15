@@ -6,9 +6,10 @@ public:
         a[0]=1;
         long long ans=0;
         for(long i=n;i>=1;i--){
+            long long l=pow(i,x);
             for(int j=n-1;j>=0;j--){
-                if(a[j]&&(j+pow(i,x))<=n){
-                    a[j+pow(i,x)]+=(a[j]);
+                if(a[j]&&(j+l)<=n){
+                    a[j+l]+=(a[j]);
                 }
             }
         }
