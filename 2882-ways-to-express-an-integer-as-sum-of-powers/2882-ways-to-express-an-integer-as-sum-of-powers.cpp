@@ -8,7 +8,7 @@ public:
         for(long i=n;i>=1;i--){
             for(int j=n-1;j>=0;j--){
                 if(a[j]&&(j+pow(i,x))<=n){
-                    a[j+pow(i,x)]=(a[j+pow(i,x)]+(a[j]))%m;
+                    a[j+pow(i,x)]+=(a[j]);
                 }
             }
         }
