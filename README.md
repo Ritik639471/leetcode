@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ritik639471/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ritik639471/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
 ## Stack
 |  |
