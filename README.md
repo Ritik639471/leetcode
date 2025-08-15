@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/Ritik639471/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ritik639471/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## String
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ritik639471/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ritik639471/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ritik639471/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ritik639471/leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/Ritik639471/leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Ritik639471/leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Dynamic Programming
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -239,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Math
 |  |
 | ------- |
