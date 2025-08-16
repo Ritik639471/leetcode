@@ -17,7 +17,7 @@ public:
             image[c.first][c.second]=color;
             for(int l=0;l<4;l++){
                 int x=dir[l][0]+c.first,y=dir[l][1]+c.second;
-                if(valid(x,y,m,n)&&image[x][y]==a){
+                if((x>=0&&x<m&&y>=0&&y<n)&&image[x][y]==a){
                     q.push({x,y});
                 }
             }
