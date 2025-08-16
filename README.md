@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritik639471/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1403-palindrome-partitioning-iii](https://github.com/Ritik639471/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1871-palindrome-partitioning-iv](https://github.com/Ritik639471/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 ## Breadth-First Search
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
+| [1403-palindrome-partitioning-iii](https://github.com/Ritik639471/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1871-palindrome-partitioning-iv](https://github.com/Ritik639471/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ritik639471/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
