@@ -20,12 +20,9 @@ public:
                 }
             }
         }
-        for (int len = 1; len <= n; len++) {
-            for (int i = 0; i + len - 1 < n-2; i++) {
-                int j = i + len - 1;
-                if (isPal[i][j]&&dp[0][j+1]) {
-                    dp[1][i]=true;
-                }
+        for (int j = 0; j<n-2; j++) {
+            if (isPal[0][j]&&dp[0][j+1]) {
+                dp[1][0]=true;
             }
         }
         return dp[1][0];
