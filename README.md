@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ritik639471/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Ritik639471/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Ritik639471/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ritik639471/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Ritik639471/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Ritik639471/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Ritik639471/leetcode/tree/master/0092-reverse-linked-list-ii) |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Ritik639471/leetcode/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Ritik639471/leetcode/tree/master/0493-reverse-pairs) |
 ## Binary Search
