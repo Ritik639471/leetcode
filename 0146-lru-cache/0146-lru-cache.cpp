@@ -17,7 +17,6 @@ public:
         if(a[key]==-1||b[key]==0) return -1;
         q.push_front({key,b[key]+1});
         b[key]++;
-        cout<<m<<endl;
         return a[key];
     }
     
@@ -28,15 +27,17 @@ public:
             a[key]=value;
             return;
         }
-        while(m==n){
-            if(a[q.back().first]==-1){
+        if(m==n){
+            while(!q.empty()){
+             if(a[q.back().first]==-1){
                 q.pop_back();
-            }else if(q.back().second>b[q.back().first]||q.back().second<b[q.back().first]){
+              }else if(q.back().second!=b[q.back().first]){
                 q.pop_back();
-            }else{
+              }else{
                 a[q.back().first]=-1;
-                b[q.back().first]=0;
                 m-=1;
+                break;
+              } 
             }
         }
         m++;
