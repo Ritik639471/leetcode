@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ritik639471/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Ritik639471/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Ritik639471/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Ritik639471/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritik639471/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ritik639471/leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Ritik639471/leetcode/tree/master/0216-combination-sum-iii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Ritik639471/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ritik639471/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Ritik639471/leetcode/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Ritik639471/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Ritik639471/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Ritik639471/leetcode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/Ritik639471/leetcode/tree/master/0312-burst-balloons) |
