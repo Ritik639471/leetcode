@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ritik639471/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ritik639471/leetcode/tree/master/0739-daily-temperatures) |
+| [0931-minimum-falling-path-sum](https://github.com/Ritik639471/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ritik639471/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ritik639471/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Ritik639471/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1403-palindrome-partitioning-iii](https://github.com/Ritik639471/leetcode/tree/master/1403-palindrome-partitioning-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ritik639471/leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Ritik639471/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/Ritik639471/leetcode/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Ritik639471/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1975-maximum-matrix-sum](https://github.com/Ritik639471/leetcode/tree/master/1975-maximum-matrix-sum) |
