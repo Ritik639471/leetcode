@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Ritik639471/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ritik639471/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Ritik639471/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Ritik639471/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ritik639471/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/Ritik639471/leetcode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Ritik639471/leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Ritik639471/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ritik639471/leetcode/tree/master/0733-flood-fill) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ritik639471/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritik639471/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Design
 |  |
