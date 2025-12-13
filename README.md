@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Ritik639471/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Ritik639471/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ritik639471/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Ritik639471/leetcode/tree/master/0739-daily-temperatures) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Ritik639471/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Ritik639471/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Ritik639471/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
@@ -454,10 +456,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ritik639471/leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Ritik639471/leetcode/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Trie
 |  |
 | ------- |
