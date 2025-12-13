@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ritik639471/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ritik639471/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Ritik639471/leetcode/tree/master/0043-multiply-strings) |
 | [0089-gray-code](https://github.com/Ritik639471/leetcode/tree/master/0089-gray-code) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ritik639471/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ritik639471/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritik639471/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Ritik639471/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
 | ------- |
