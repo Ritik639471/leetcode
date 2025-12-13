@@ -1,24 +1,23 @@
 class Solution {
 public:
     int minCost(int n, vector<int>& cuts) {
-        int s=cuts.size();
-        sort(cuts.begin(),cuts.end());
-        vector<vector<int>>dp(s,vector<int>(s,INT_MAX));
-        for(int l=1;l<=s;l++){
-            for(int i=0;i<=s-l;i++){
-                int j=i+l-1;
-                for(int k=i;k<=j;k++){
-                    int a=0;
-                    if(i==0&&j==s-1) a=n;
-                    else if(i==0) a=cuts[j+1];
-                    else if(j==s-1) a=n-cuts[i-1];
-                    else a=cuts[j+1]-cuts[i-1];
-                    if(i<k) a+=dp[i][k-1];
-                    if(j>k) a+=dp[k+1][j];
-                    dp[i][j]=min(dp[i][j],a);
-                }
+    cuts.push_back(0);
+    cuts.push_back(n);
+    sort(cuts.begin(), cuts.end());
+
+    int m = cuts.size();
+    vector<vector<int>> dp(m, vector<int>(m, 0));
+
+    for (int len = 2; len < m; len++) {
+        for (int i = 0; i + len < m; i++) {
+            int j = i + len;
+            dp[i][j] = INT_MAX;
+            for (int k = i + 1; k < j; k++) {
+                dp[i][j] = min(dp[i][j],
+                    cuts[j] - cuts[i] + dp[i][k] + dp[k][j]);
             }
         }
-        return dp[0][s-1];
     }
+    return dp[0][m - 1];
+}
 };
