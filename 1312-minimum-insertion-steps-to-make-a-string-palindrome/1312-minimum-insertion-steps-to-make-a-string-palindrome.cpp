@@ -2,16 +2,17 @@ class Solution {
 public:
     int minInsertions(string s) {
         int n=s.length();
-        vector<int>a(n+1,0),b;
-        for(int i=1;i<=n;i++){
+        vector<int>a(n+1,0),b,c;
+        for(int l=1;l<=n;l++){
+            c=b;
             b=a;
-            for(int j=1;j<=n;j++){
-                if(s[i-1]==s[n-j]){
-                    a[j]=1+b[j-1];
-                }
-                a[j]=max({b[j],a[j-1],a[j]});
+            for(int i=0;i+l<=n;i++){
+                int j=i+l-1;
+                if(i==j) a[i]=1;
+                else if(s[i]==s[j]) a[i]=2+c[i+1];
+                else a[i]=max(b[i],b[i+1]);
             }
         }
-        return n-a[n];
+        return n-a[0];
     }
 };
