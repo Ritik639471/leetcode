@@ -15,4 +15,3 @@ public:
         return a[n];
     }
 };
-auto init = atexit( []() { ofstream( "display_runtime.txt" ) << "0"; } );
