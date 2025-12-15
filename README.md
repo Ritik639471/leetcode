@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Ritik639471/leetcode/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritik639471/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1092-shortest-common-supersequence](https://github.com/Ritik639471/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritik639471/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1403-palindrome-partitioning-iii](https://github.com/Ritik639471/leetcode/tree/master/1403-palindrome-partitioning-iii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Ritik639471/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/Ritik639471/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritik639471/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1403-palindrome-partitioning-iii](https://github.com/Ritik639471/leetcode/tree/master/1403-palindrome-partitioning-iii) |
