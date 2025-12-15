@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ritik639471/leetcode/tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/Ritik639471/leetcode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Ritik639471/leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/Ritik639471/leetcode/tree/master/0044-wildcard-matching) |
 | [0065-valid-number](https://github.com/Ritik639471/leetcode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Ritik639471/leetcode/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/Ritik639471/leetcode/tree/master/0072-edit-distance) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Ritik639471/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Ritik639471/leetcode/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Ritik639471/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Ritik639471/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Ritik639471/leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Ritik639471/leetcode/tree/master/0115-distinct-subsequences) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ritik639471/leetcode/tree/master/0044-wildcard-matching) |
 | [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritik639471/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1975-maximum-matrix-sum](https://github.com/Ritik639471/leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ritik639471/leetcode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Ritik639471/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Ritik639471/leetcode/tree/master/0044-wildcard-matching) |
 | [0234-palindrome-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
