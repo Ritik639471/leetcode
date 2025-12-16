@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool compare(string s,string t){
+    bool compare(string &s,string &t){
         int n=s.size(),m=t.size();
         if(n+1!=m) return false;
         int a=0;
@@ -14,7 +14,7 @@ public:
         int n=words.size();
         vector<int>dp(n,1);
         int mx=1;
-        sort(words.begin(),words.end(),[](string a,string b){
+        sort(words.begin(),words.end(),[](const string& a,const string&  b){
             return a.size()>b.size();
         });
         for(int i=1;i<n;i++){
