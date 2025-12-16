@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0940-fruit-into-baskets](https://github.com/Ritik639471/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Ritik639471/leetcode/tree/master/1048-longest-string-chain) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Ritik639471/leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 ## String
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Ritik639471/leetcode/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritik639471/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/Ritik639471/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ritik639471/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ritik639471/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Ritik639471/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-fruit-into-baskets](https://github.com/Ritik639471/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0971-shortest-bridge](https://github.com/Ritik639471/leetcode/tree/master/0971-shortest-bridge) |
+| [1048-longest-string-chain](https://github.com/Ritik639471/leetcode/tree/master/1048-longest-string-chain) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ritik639471/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ritik639471/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Ritik639471/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Ritik639471/leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Ritik639471/leetcode/tree/master/0721-accounts-merge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ritik639471/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1048-longest-string-chain](https://github.com/Ritik639471/leetcode/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ritik639471/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ritik639471/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Ritik639471/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/Ritik639471/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Ritik639471/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Ritik639471/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Ritik639471/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ritik639471/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -433,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ritik639471/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Ritik639471/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Ritik639471/leetcode/tree/master/1048-longest-string-chain) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Ritik639471/leetcode/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Merge Sort
