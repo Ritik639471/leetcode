@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1663-detect-cycles-in-2d-grid](https://github.com/Ritik639471/leetcode/tree/master/1663-detect-cycles-in-2d-grid) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritik639471/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1975-maximum-matrix-sum](https://github.com/Ritik639471/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/Ritik639471/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Ritik639471/leetcode/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Ritik639471/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritik639471/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1871-palindrome-partitioning-iv](https://github.com/Ritik639471/leetcode/tree/master/1871-palindrome-partitioning-iv) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ritik639471/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3209-minimum-number-of-coins-for-fruits](https://github.com/Ritik639471/leetcode/tree/master/3209-minimum-number-of-coins-for-fruits) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Ritik639471/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Ritik639471/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Ritik639471/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritik639471/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1975-maximum-matrix-sum](https://github.com/Ritik639471/leetcode/tree/master/1975-maximum-matrix-sum) |
 ## String Matching
 |  |
@@ -452,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Ritik639471/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Ritik639471/leetcode/tree/master/0493-reverse-pairs) |
+| [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/Ritik639471/leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Ritik639471/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Queue
 |  |
