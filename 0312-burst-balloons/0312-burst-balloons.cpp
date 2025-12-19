@@ -4,7 +4,7 @@ public:
         int n=nums.size();
         nums.insert(nums.begin(),1);
         nums.push_back(1);
-        vector<vector<int>>dp(n+2,vector<int>(n+2,0));
+        int dp[302][302] = {0};
         for(int i=n;i>=1;i--){
             for(int j=i;j<=n;j++){
                 int cost=0;
